@@ -2,7 +2,8 @@
 Bu repo kodluyoruz Front-end eğitiminde oluşturduğumuz ilk repo içerisinde bir adet README dosyası, bir adet de endex.html barındırıyor.
 
 ## Installation
-Öncelikle projeyi clonelaynın.(https://github.com/Elif-PALA/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelaynın.
+(https://github.com/Elif-PALA/kodluyoruzilkrepo.git)
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code proramında açınız.
